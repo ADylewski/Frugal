@@ -1,4 +1,5 @@
 *.jpg
 *.jpeg
-*.png
+/eval_phrases
+/outputs_assocphrases
 *.pdf
