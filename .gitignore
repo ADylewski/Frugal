@@ -1,5 +1,12 @@
 *.jpg
 *.jpeg
 /eval_phrases
+/eval_phrases_1
+/eval_phrases_2
+/eval_phrases_3
+/eval_phrases_4
+/eval_phrases_5
+/eval_phrases_6
+
 /outputs_assocphrases
 *.pdf
